@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 <!--
-**itsksaurabh/itsksaurabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LondheShubham153/LondheShubham153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 I am [Shubham](https://www.linkedin.com/in/shubhamlondhe1996/), a Full Stack Software Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 2+ years of professional onsite as well as remote working experience. 🎯
 
-I mostly work with Python and Cloud-Native technologies. 🚀
+I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
 
 <p float="left">
@@ -16,9 +16,11 @@ I mostly work with Python and Cloud-Native technologies. 🚀
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
   </a>
-  <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
+  
+  <a href="https://www.djangoproject.com/" target="_blank" >
+    <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"  height="80" /> 
   </a>
+  
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
   </a>
@@ -30,7 +32,7 @@ I mostly work with Python and Cloud-Native technologies. 🚀
   </a>
  </p>
   
-### CSPs
+### DevOps
   
  <p float="left">
   <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
@@ -41,18 +43,22 @@ I mostly work with Python and Cloud-Native technologies. 🚀
   </a>
  </p>
   
-### Monitoring
+### Databases and Monitoring
   
- <p float="left">
-  <a href="https://grafana.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
-  </a>
   <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
   </a>
   <a href="https://www.influxdata.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/influxdata.gif" height="60" />
   </a>
+    <a href="https://www.postgresql.org" target="_blank" >
+    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" />
+  </a>
+  </a>
+    <a href="https://www.mongodb.com/" target="_blank" >
+    <img src="https://www.logolynx.com/images/logolynx/cf/cf72126a3551b816d617a06ffb01388b.png" height="60" />
+  </a>
+  
 </p>
 
 
